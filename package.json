@@ -1,0 +1,29 @@
+{
+  "name": "@architect/repl",
+  "version": "1.0.0",
+  "description": "a repl for your @architect app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"There are no tests... yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/architect/repl.git"
+  },
+  "keywords": [
+    "arc",
+    "repl"
+  ],
+  "author": "Small Wins",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/architect/repl/issues"
+  },
+  "homepage": "https://github.com/architect/repl#readme",
+  "dependencies": {
+    "@architect/data": "^3.0.5",
+    "@architect/sandbox": "^1.2.1",
+    "chalk": "^2.4.2",
+    "repl": "^0.1.3"
+  }
+}
