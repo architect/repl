@@ -1,4 +1,5 @@
 test/
+.github
 .eslintignore
 .eslintrc.js
 .travis.yml

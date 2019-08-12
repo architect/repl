@@ -27,7 +27,7 @@ function cmd(/*opts*/) {
   }
 }
 
-module.exports = cmd 
+module.exports = cmd
 
 // allow direct invoke
 if (require.main === module) {
