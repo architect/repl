@@ -1,4 +1,5 @@
-# `@architect/repl` [![Travis Build Status](https://travis-ci.com/architect/repl.svg?branch=master)](https://travis-ci.com/architect/repl) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/33hnhgxadmfjsrqr/branch/master?svg=true)](https://ci.appveyor.com/project/ArchitectCI/repl/branch/master)
+# `@architect/repl` [![GitHub CI status](https://github.com/architect/repl/workflows/Node%20CI/badge.svg)](https://github.com/architect/repl/actions?query=workflow%3A%22Node+CI%22)
+<!-- [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/33hnhgxadmfjsrqr/branch/master?svg=true)](https://ci.appveyor.com/project/ArchitectCI/repl/branch/master) -->
 
 [@architect/repl][npm] is a module that creates a REPL for your Architect
 projects.

@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "npm run lint",
-    "lint": "eslint . --fix --ignore-pattern node_modules"
+    "lint": "eslint . --fix --ignore-pattern node_modules",
+    "rc": "npm version prerelease --preid RC"
   },
   "repository": {
     "type": "git",
