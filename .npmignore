@@ -1,6 +1,5 @@
-test/
-.github
 .eslintignore
 .eslintrc.js
-.travis.yml
-appveyor.yml
+.git/
+.github/
+test/
