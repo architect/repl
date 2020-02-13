@@ -2,6 +2,19 @@
 
 ---
 
+## [1.0.11] 2020-02-13
+
+### Changed
+
+- Updated dependencies
+
+
+### Fixed
+
+- Improves reliability of using Architect with certain test harnesses that may automatically set `NODE_ENV`
+
+---
+
 ## [1.0.9 - 1.0.10] 2020-02-12
 
 ### Changed
