@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/architect/repl#readme",
   "dependencies": {
-    "@architect/functions": "~3.8.1",
+    "@architect/functions": "~3.9.1",
     "@architect/sandbox": "~1.9.0",
     "@architect/utils": "~1.5.1",
     "chalk": "~4.0.0",
