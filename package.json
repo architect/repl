@@ -1,6 +1,6 @@
 {
   "name": "@architect/repl",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A repl for your Architect app",
   "main": "index.js",
   "bin": {
